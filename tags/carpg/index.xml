@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carpg on The ChaosGrenade</title>
+    <link>http://chaosgrenade.com/tags/carpg/</link>
+    <description>Recent content in carpg on The ChaosGrenade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 19 Apr 2016 04:49:58 +0000</lastBuildDate><atom:link href="http://chaosgrenade.com/tags/carpg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rota Fortunae: A Simple Fantasy RPG Framework</title>
+      <link>http://chaosgrenade.com/post/2016-04-18-rota-fortunae-a-simple-fantasy-rpg-framework/</link>
+      <pubDate>Tue, 19 Apr 2016 04:49:58 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/post/2016-04-18-rota-fortunae-a-simple-fantasy-rpg-framework/</guid>
+      <description>Rota Fortunae is a simple fantasy rpg framework driven by CarPG.
+We took the base rules and repackaged it as a complete, stand alone 16-page PDF fantasy game. In addition to showcasing the system in a clean layout, we added all sorts of fun stuff:
+ Expanded Skills &amp;amp; Tags A simple magic system with expanded options. 8 fantasy races (plus humans) Additional house-rule options to expand or simplify the game.</description>
+    </item>
+    
+    <item>
+      <title>Hacking WR&amp;M to Fate’s Wheel</title>
+      <link>http://chaosgrenade.com/post/2016-04-03-hacking-wrm-to-fates-wheel/</link>
+      <pubDate>Mon, 04 Apr 2016 01:17:56 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/post/2016-04-03-hacking-wrm-to-fates-wheel/</guid>
+      <description>Today’s post isn’t so much an add-on to **CarPG **as it is a brainstorm on a system hack for _Warrior, Rogue &amp;amp; Mage— _converting it to the d10 or Fate’s Wheel mechanic that CarPG uses.
+The ease of cross-pollination between the two is not a coincidence since most of the games we crank out here at The ChaosGrenade are either based on the WyRM System or grew from it. The goal of this blog post is to present a variant resolution mechanic for WR&amp;amp;M while allowing the character creation process to remain intact with minimal edits or conversions.</description>
+    </item>
+    
+    <item>
+      <title>Using CarPG for Play-By-Post</title>
+      <link>http://chaosgrenade.com/post/2016-03-19-using-carpg-for-play-by-post/</link>
+      <pubDate>Sat, 19 Mar 2016 22:15:29 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/post/2016-03-19-using-carpg-for-play-by-post/</guid>
+      <description>&lt;p&gt;First off, if you haven’t seen it yet: **&lt;a href=&#34;http://chaosgrenade.com/games/carpg/&#34;&gt;CarPG&lt;/a&gt; **is a new diceless rules-lite RPG framework written by my buddy Matt Bryant (the guy behind _Main Sequence.) _&lt;/p&gt;
+&lt;p&gt;While he designed it  as a game to play on road trips with your buds, I’ve found it _incredibly _useful as a mechanic for playing Play By Post rpgs. In my past experience, play-by-posts worked either one of three ways: 1) The dice rolls were either handled completely by the moderator, leaving a sense of control out for the players. 2) The entire game was purely narrative focused, which while fun often felt more like a writing exercise than a game. And then lastly, 3) The die rolls were handled like normal (either on the honor system  or with online dice rollers), and as a result the game system itself really bogged down the pace of the game.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

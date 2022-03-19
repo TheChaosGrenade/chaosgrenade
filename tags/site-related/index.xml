@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site Related on The ChaosGrenade</title>
+    <link>http://chaosgrenade.com/tags/site-related/</link>
+    <description>Recent content in Site Related on The ChaosGrenade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Oct 2020 10:39:06 +0000</lastBuildDate><atom:link href="http://chaosgrenade.com/tags/site-related/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Death and Return of The ChaosGrenade</title>
+      <link>http://chaosgrenade.com/post/2020-10-12-death-and-return/</link>
+      <pubDate>Mon, 12 Oct 2020 10:39:06 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/post/2020-10-12-death-and-return/</guid>
+      <description>The old blog site is dead. May this one endure.
+Last week I was made aware that adware had infiltrated my site. Certain pages and methods of access (like Google) resulted in redirects to spam and phishing sites.
+I have no ill feelings towards Wordpress, except as someone who infrequently blogs it was becoming a chore to keep up to date. Several times in the past I&amp;rsquo;ve had issues with plug-ins, themes, and even the software updates themselves.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on The ChaosGrenade</title>
+    <link>http://chaosgrenade.com/categories/blog/</link>
+    <description>Recent content in Blog on The ChaosGrenade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Sep 2021 01:00:00 +0000</lastBuildDate><atom:link href="http://chaosgrenade.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Now on Neocities</title>
+      <link>http://chaosgrenade.com/post/2021-9-9-now-on-neocities/</link>
+      <pubDate>Thu, 09 Sep 2021 01:00:00 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/post/2021-9-9-now-on-neocities/</guid>
+      <description>The ChaosGrenade is now being hosted on Neocities.Org. If that name raises some slight nostalgia, it&amp;rsquo;s no coincidence, as it&amp;rsquo;s a nod to the old days of Geocities &amp;ndash; back before social media when everyone had a website, and we &amp;ldquo;networked&amp;rdquo; through web rings. I figured it was time to quit piggy-backing off my brother&amp;rsquo;s webhost, and Neocities met all my needs.
+What does this mean for the site, exactly? Only that I&amp;rsquo;ve chosen to remain as a &amp;ldquo;static&amp;rdquo; web blog.</description>
+    </item>
+    
+    <item>
+      <title>Death and Return of The ChaosGrenade</title>
+      <link>http://chaosgrenade.com/post/2020-10-12-death-and-return/</link>
+      <pubDate>Mon, 12 Oct 2020 10:39:06 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/post/2020-10-12-death-and-return/</guid>
+      <description>The old blog site is dead. May this one endure.
+Last week I was made aware that adware had infiltrated my site. Certain pages and methods of access (like Google) resulted in redirects to spam and phishing sites.
+I have no ill feelings towards Wordpress, except as someone who infrequently blogs it was becoming a chore to keep up to date. Several times in the past I&amp;rsquo;ve had issues with plug-ins, themes, and even the software updates themselves.</description>
+    </item>
+    
+  </channel>
+</rss>

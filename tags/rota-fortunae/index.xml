@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rota Fortunae on The ChaosGrenade</title>
+    <link>http://chaosgrenade.com/tags/rota-fortunae/</link>
+    <description>Recent content in Rota Fortunae on The ChaosGrenade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 19 Apr 2016 04:49:58 +0000</lastBuildDate><atom:link href="http://chaosgrenade.com/tags/rota-fortunae/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rota Fortunae: A Simple Fantasy RPG Framework</title>
+      <link>http://chaosgrenade.com/post/2016-04-18-rota-fortunae-a-simple-fantasy-rpg-framework/</link>
+      <pubDate>Tue, 19 Apr 2016 04:49:58 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/post/2016-04-18-rota-fortunae-a-simple-fantasy-rpg-framework/</guid>
+      <description>Rota Fortunae is a simple fantasy rpg framework driven by CarPG.
+We took the base rules and repackaged it as a complete, stand alone 16-page PDF fantasy game. In addition to showcasing the system in a clean layout, we added all sorts of fun stuff:
+ Expanded Skills &amp;amp; Tags A simple magic system with expanded options. 8 fantasy races (plus humans) Additional house-rule options to expand or simplify the game.</description>
+    </item>
+    
+  </channel>
+</rss>

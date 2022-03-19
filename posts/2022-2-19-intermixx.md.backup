@@ -1,0 +1,165 @@
+---
+title: 'INTERMIXX - an RPG Mash-Up'
+author: R.E. Davis
+type: post
+date: 2022-02-19T01:00:00+00:00
+featuredImage: /images/intermixx.jpg
+authorbox: true
+categories:
+  - ChaosGrenade Games
+tags:
+  - intermixx
+  - creative commons
+  - framework
+---
+
+**INTERMIXX** is an *RPG Mash-Up* -- a remix of cool ideas and styles to create a fun gaming experience all its own. This is a minimalist, DIY rules set. I assume if you're reading this you're already familiar with role-playing games and how they work. I also assume if you find any rules lacking, you know how to steal ideas from other systems or fill in the blanks yourself. So go grab yourself two six-sided dice, something to write on, and some friends. Think up a setting or genre you want to play. Brainstorm, improvise, and most of all: have fun. 
+
+<!--more-->
+---
+*Version 1.01 -- Light Edits & Clarifications*
+
+# Game Play
+
+**Players** take on the role of individual characters.
+
+**The Guide** plays “the world” that the characters exist in. 
+
+For every interaction the player characters have with the setting and its inhabitants, the Guide facilitates the results. 
+
+## Core Resolution Mechanic
+**Players** do all of the dice rolling. **The Guide** interprets the outcome. 
+
+Dice are only rolled when the risk of failure is substantial *and* interesting. Easy tasks, or endeavors where failure will only stall the pacing, should just be given success. 
+
+To make an **action roll**, the players roll and add 2D6(+/- Modifiers) and compare the results below:
+
+
+- **(8+) Success:** The character overcomes the challenge and achieves what they set out to do. Rolling “doubles” (or matching dice) provides an additional benefit to their success.
+- **(7 or Lower) Setback:** The character suffers a lesser consequence or partial success. If there is risk of harm, they are wounded or take an injury.
+- (**Double Setback) Disaster:** If *matching dice* are rolled on a Setback, the character suffers the full risk of their actions. If there was a risk of harm, then a major injury or even death is on the line.
+
+
+### Modifiers
+
+- Most action rolls are eligible for a bonus if the character has a related **Skill.** Each skill is rated +1 to +3.
+- For more challenging tasks and situations, the Guide may impose a **Difficulty** modifier ranging from -1 to -3.
+- Generally speaking, lacking a skill is simply a +0 modifier to a roll. However, if the task feels particularly out of the character’s purview (specifically if none of their **Traits** qualify any experience with the action) then the Guide may impose a Difficulty.
+
+### Advantage & Disadvantage
+
+- Special equipment, abilities or circumstances may grant an Advantage or Disadvantage to a roll.
+- An **Advantaged** action may re-roll and take the better result.
+- A **Disadvantaged** action is rolled twice, and takes the worst result.
+- Advantage & Disadvantage do not stack, and cancel each other out.
+
+## Conflict & Hindrances
+
+- All conflict is handled at the pace of narration. Any actions a character takes to engage, overcome or bypass the opposition is handled like any other action rolls.
+- Rolling a Setback during a conflict may inflict the character with a **Hindrance**. A hindrance is a negative trait portraying a condition (like stressed, wounded, frightened, exhausted, embarrassed, blinded etc.) or an injury (broken arm, gouged eye etc.).
+- Action rolls affected by Hindrances are at a Disadvantage.
+- Specific to physical altercations, a player may choose to break an item or belonging (armor, weapons, gear on their person etc.) in order to prevent or reduce harm.
+- Minor hindrances can be recovered in scenes of downtime following the conflict. Those inflicted from physical harm may require medical or technical treatment. Major hindrances and grievous injuries will have to be recovered over time.
+
+## Progress Trackers
+For more complicated tasks or obstacles, that would require several actions or prolonged effort to overcome, the Guide may wish to use **Progress Trackers.** This can take many forms — they could draw a number of boxes to be checked off, sketch “clocks” with varying pie-slices to scribble out, denote a pool of points or tokens to reduce, or even using spare dice to count progress towards the goal. 
+
+* Name or declare the obstacle the tracker represents, like “horde of zombies” or “corporate firewall”.
+* Every successful action taken towards overcoming the objective gets the players one step towards their goal. A “double” success or, optionally, rolling a total over 12+ may progress them an additional step.
+* Setbacks are open for interpretation — for instance, the Guide may decide for a “Evade the Cops” endeavor, every Setback reduces the players’ progress by 1 (and rolling a Disaster will result in them being caught). Meanwhile, a “Ninja Ambush” could see every Setback as a partial success with consequence, and Disasters leading to severe injuries.
+
+Progress trackers can be used for short term and long term endeavors, and not necessarily against opposition or with high-risk. Character goals (like learning a spell, building a robot, persuading the public etc.) can be tracked over time this way.
+
+---
+
+# Character Creation
+
+## Traits
+
+**Traits** are special descriptors that establish facts about your character and help lay the foundations of their experience in the setting. Each trait is written down as a brief statement or small sentence. For your character’s starting traits, answer the following questions:
+
+- **What is their Concept**?   
+*What is it that the character does? This can be their profession, an archetype in the story, a background or what have you. It’s recommended to include an Adjective and a Noun; any special ancestry or species of origin should be included here as well.*
+- **What is something Special about them**?  
+*Does any characteristic stand out? Do they have a power or ability unique in this setting? Is there something from their background or upbringing that will benefit them during play?*
+- **Describe a Flaw about them?**  
+*Do they have any personality traits that hinder them? A bad reputation? Some other quality that could hinder them?*
+- **What is an important Bond they have to the setting?**  
+*Bonds can be relationships to specific individuals or factions, devotion to a faith or ideology, or even just a special connection to a place.*
+
+## Skills
+Skills are broad talents or fields of study the character has proficient study or experience in. 
+
+Players write down six Skills, and assign the following array of scores:  
+**+3, +2, +2, +1, +1, +1**
+
+This can be written out as a “pyramid” — 3 rows of skills, from highest to lowest. 
+
+* +3: *Skill* 
+* +2: *Skill, Skill*
+* +1: *Skill, Skill, Skill*
+
+## Gear
+
+Next, list up to 5 belongings that your character would reasonably have adventuring. Equipment usually doesn’t have a mechanical game function, aside from being a device in the narrative to explain how a character performs an action. With the Guide’s permission, you may spend two of your equipment choices to list a special item that grants Advantage (once per scene) on any rolls associated with its use. 
+
+## Final Touches
+If you haven’t already, give your character a name and maybe a simple description of appearances and mannerisms. 
+
+---
+
+## *Sample Characters*
+
+**ARLWICK SKULL-CRACKER**  
+*Stalwart Dwarven Defender*   
+*Strong Resolve Against Fear*  
+*Guilty Conscience Over Brother's Death*  
+*Devoted to the Halls of Haur-Tor*
+
+* **(+3)**: Hammer Fighting Style  
+* **(+2)**: Clan Politics, Tactics  
+* **(+1)**: Blacksmithing, Awareness, Alcohol Tolerance  
+
+**Equipment:**  
+*Ancestor’s Warhammer, Father’s Helmet, Clan’s Shield, Adventurer’s Kit, Marley (War-Goat Mount)*
+
+
+**JAMBOREE**   
+*Dazzling Street Performer*  
+*Practicing Pyromancer*    
+*Hot Tempered*  
+*Has a Beef with the Record Store Owner*
+
+* **(+3)**: Street Dancing  
+* **(+2)**: Persuasion, Pyromancy  
+* **(+1)**: Stealth, Self-Defense, Larceny  
+
+**Equipment:**  
+*Grimoire of Flames, Protection Amulet, Lockpicks, Fake ID, Kubotan* 
+
+---
+
+*This Space Reserved to link to future articles, plug-ins and modules*
+
+---
+
+# CREDITS
+Compiled by R.E. Davis / ChaosGrenade Games
+
+This game was built with some content taken from [***24XX***](https://jasontocci.itch.io/24xx) by Jason Tocci, released under Creative Commons Attribution 4.0 license. 
+
+Additionally, it takes inspiration from games such as:
+
+* [Fate Core](https://fate-srd.com/) by Evil Hat Studios
+* [Ironsworn](http://ironsworn.com) by Shawn Tomkin
+* [Classic Traveller](https://www.drivethrurpg.com/product/355200/Classic-Traveller-Facsimile-Edition?) by Marc Miller
+
+
+
+The **TEXT** of this Framework is released under **Creative Commons Attribution 4.0 International** license. You are free to remix, reuse, redistribute and use it to build your own projects as long as you:  
+* Include attribution (see below). 
+* You _cannot_ state or imply your work is associated with R.E. Davis or ChaosGrenade Games.
+
+	  This work is based on INTERMIXX (found at http://chaosgrenade.com/), created by R.E. Davis and licensed for use under the Creative Commons Attribution 4.0 Unported license (http://creativecommons.org/licenses/by/4.0/)	
+
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on The ChaosGrenade</title>
+    <link>http://chaosgrenade.com/page/</link>
+    <description>Recent content in Pages on The ChaosGrenade</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://chaosgrenade.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABOUT</title>
+      <link>http://chaosgrenade.com/page/about-chaosgrenade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/page/about-chaosgrenade/</guid>
+      <description>The ChaosGrenade is dedicated to a love of Tabletop Gaming (particularly Role-Playing Games).
+We ramble about games we like, and offer a few titles of our own.
+R.E. Davis is the public face, &amp;ldquo;resident grumpus&amp;rdquo;, and author of the upcoming Sigil &amp;amp; Shadow. He hails from a college town in Texas, where he grew up exposed to a weird mix of old-fashioned living and big-city dreaming. Always one for the weird, he spent much of his youth playing fantasy games, listening to scary music, and reading dystopian fiction and occult literature.</description>
+    </item>
+    
+    <item>
+      <title>CHAOSGRENADE GAMES</title>
+      <link>http://chaosgrenade.com/categories/chaosgrenade-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/categories/chaosgrenade-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAN STUFF</title>
+      <link>http://chaosgrenade.com/categories/fan-stuff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/categories/fan-stuff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PODCAST</title>
+      <link>http://chaosgrenade.com/categories/podcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/categories/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAMBLING</title>
+      <link>http://chaosgrenade.com/categories/rambling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/categories/rambling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGIL &amp; SHADOW</title>
+      <link>http://chaosgrenade.com/page/sigil-and-shadow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chaosgrenade.com/page/sigil-and-shadow/</guid>
+      <description>Welcome! This is a landing page for everything you&amp;rsquo;d need to know about Sigil &amp;amp; Shadow &amp;ndash; a roleplaying game of modern horror, occultism, and fantasy. It is a world where myth, magic, and urban legend collide with our modern post-truth zeitgeist. Players take on the roles of investigators, mystics, occultists, hunters, and monsters, fighting back against the tides of strange and supernatural forces that press against our fragile façade of reality.</description>
+    </item>
+    
+  </channel>
+</rss>
